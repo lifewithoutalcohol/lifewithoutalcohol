@@ -1,4 +1,4 @@
-    Hi, I’m **@lifewithoutalcohol**
+ -   Hi, I’m @lifewithoutalcohol
 - I’m interested in learning and work with **Vue**. 
 - I’m currently learning **Vue / Vuex** and i love it so much
 - I’m looking to collaborate with smart team, where i can grow like a frontend developer and find someth interesting things in programming
